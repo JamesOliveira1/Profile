@@ -1,18 +1,18 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mayk Brito</h1>
-<h3 align="center">A Web Developer Instructor focused on helping people start programming</h3>
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm James</h1>
+<h3 align="center">A Beginner Web Developer focused on frontend</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
-- 🔭 I’m currently working on [Rocketseat](https://github.com/Rocketseat)
+- 🔭 I’m looking for a job at [Linkedin profile](https://www.linkedin.com/in/jamesoliveira1/)
 
-- 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br)
+- 👨‍💻 All of my projects are available at [My github](https://github.com/JamesOliveira1)
 
-- ▶️ I regulary post videos on [youtube.com/rocketseat](https://youtube.com/rocketseat)
+- ▶️ I'm currently taking classes and helping others on various projectsI regulary 
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL**
+- 🌱 I’m currently learning ... **JavaScript, HTML, CSS, NodeJS, Vue, Flutter, ReactNative, Phyton **
 
-- 📫 How to reach me **maykbrito@gmail.com**
+- 📫 How to reach me **escrevaparajames@hotmail.com**
 
-- ⚡ Fun fact **Oneye 😜**
+- ⚡ Add me, I’m looking to collaborate with new projects😜**
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
