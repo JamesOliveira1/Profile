@@ -8,7 +8,7 @@
 
 - ▶️ I'm currently taking classes and helping others on various projectsI regulary 
 
-- 🌱 I’m currently learning ... **JavaScript, HTML, CSS, NodeJS, Vue, Flutter, ReactNative, Phyton **
+- 🌱 I’m currently learning ... **JavaScript, HTML, CSS, React, Phyton **
 
 - 📫 How to reach me **escrevaparajames@hotmail.com**
 
