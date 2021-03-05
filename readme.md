@@ -1,14 +1,14 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm James</h1>
-<h3 align="center">A Beginner Web Developer focused on frontend</h3>
+<h3 align="center">A Beginner Web Developer focused on Frontend</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JamesOliveira1" alt="JamesOliveira1" /> </p>
 
 - 🔭 I’m looking for a job at [Linkedin profile](https://www.linkedin.com/in/jamesoliveira1/)
 
-- 👨‍💻 All of my projects are available at [My github](https://github.com/JamesOliveira1)
+- 👨‍💻 All of my projects are available here [My github](https://github.com/JamesOliveira1)
 
-- ▶️ I'm currently taking classes and helping others on various projectsI regulary 
+- ▶️ I'm currently taking classes and helping others on various projects 
 
-- 🌱 I’m currently learning ... **JavaScript, HTML, CSS, React, Phyton **
+- 🌱 I’m learning ... **JavaScript, HTML, CSS, UI UX Design, Bootstrap, React, Phyton **
 
 - 📫 How to reach me **escrevaparajames@hotmail.com**
 
@@ -19,7 +19,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="20" height="20"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 
 </p>
