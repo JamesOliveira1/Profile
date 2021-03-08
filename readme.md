@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm James</h1>
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, I'm James</h1>
 <h3 align="center">A Beginner Web Developer focused on Frontend</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JamesOliveira1" alt="JamesOliveira1" /> </p>
 
